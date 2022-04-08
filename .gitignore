@@ -1,0 +1,6 @@
+.idea
+*.py[cod]
+*.log
+migrations
+*upload/
+.ipynb_checkpoints
